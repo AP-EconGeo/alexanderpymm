@@ -1,6 +1,7 @@
 ---
 title: "High Crime? The Question of Drug Revenue Incentives for Violence in Illicit Marijuana Markets"
 collection: publications
+category: selected_research
 permalink: /publication/high-crime-drug-revenue-violence
 date: 2021-08-04
 venue: "BSc Dissertation, King’s College London"

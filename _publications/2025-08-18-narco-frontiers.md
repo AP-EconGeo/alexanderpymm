@@ -1,6 +1,7 @@
 ---
 title: "Understanding Livelihood Outcomes in ‘Narco-Frontiers’: A Socio-Territorial Perspective"
 collection: publications
+category: selected_research
 permalink: /publication/narco-frontiers
 date: 2025-08-18
 venue: "MSc Dissertation, London School of Economics and Political Science"
