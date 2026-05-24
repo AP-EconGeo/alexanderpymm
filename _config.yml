@@ -149,10 +149,10 @@ og_description           :  # Social media default site image description
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person
-  name                   : Alexander Pymm
+  name                   : "Alexander Pymm"
   links:
-   "https://www.linkedin.com/in/alexander-pymm"
-   "https://orcid.org/0009-0009-1074-1156"
+    - "https://www.linkedin.com/in/alexander-pymm"
+    - "https://orcid.org/0009-0009-1074-1156"
 
 
 # Analytics
